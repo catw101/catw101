@@ -9,7 +9,7 @@ I'm currently a sophomore studying CS and Applied Math at Columbia University.
 
 
 
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=catw101&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=catw101&theme=buefy&hide=stars&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 
