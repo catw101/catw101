@@ -1,11 +1,13 @@
-## Catelen Wu
-Hi! I'm Catelen, and I'm an undergraduate student studying CS at Columbia University.
+## Hi, I'm Catelen! 👋
+I'm currently a sophomore studying CS and Applied Math at Columbia University.
 
 ### Interests 
 🌱 Full stack development  
 🌱 App development   
 🌱 Data science   
 🌱 Cybersecurity  
+
+
 
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=catw101&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
