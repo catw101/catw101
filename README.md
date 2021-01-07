@@ -1,5 +1,5 @@
 ## Hi, I'm Catelen! 👋
-I'm currently a sophomore studying CS and Applied Math at Columbia University. Outside of academics, I am also a part of the <a href="http://gwcatcolumbia.com/" target="_blank">Girls Who Code</a> club on campus.
+I'm currently a sophomore studying CS at Columbia University. Outside of academics, I am also a part of the <a href="http://gwcatcolumbia.com/" target="_blank">Girls Who Code</a> club on campus.
 
 🌱 I am interested in full stack development, app development, data science, and cybersecurity.  
 📓 This semester, I am taking the following courses: User Interface Design, Computational Linear Algebra  
