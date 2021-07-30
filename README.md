@@ -1,5 +1,5 @@
 ## Hi, I'm Catelen! 👋
-I'm a rising junior studying CS at Columbia University. Outside of academics, I am also a part of the <a href="http://gwcatcolumbia.com/" target="_blank">Girls Who Code</a> club on campus.
+I'm a junior studying CS at Columbia University. Outside of academics, I am also a part of the <a href="http://gwcatcolumbia.com/" target="_blank">Girls Who Code</a> club on campus.
 
 🌱 I am interested in full stack development, app development, and machine learning.  
 📓 Next semester, I am taking the following courses: Clean Object-Oriented Design, Advanced Software Engineering   
