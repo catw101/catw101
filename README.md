@@ -2,7 +2,8 @@
 I'm a senior studying CS at Columbia University. Outside of academics, I am also a part of the <a href="http://gwcatcolumbia.com/" target="_blank">Girls Who Code</a> club on campus.
 
 🌱 I am interested in full stack development, backend development, and data science.  
-🔭 I am an incoming SDE at Amazon Web Services. I previously interned at Bank of America, Chipper Cash, and JPMorgan Chase & Co.
+🔭 I am an incoming SDE at Amazon Web Services. I previously interned at Bank of America, Chipper Cash, and JPMorgan Chase & Co.  
+💬 Currently working with Ruby, Haskell, and Python!
 
 
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=catw101&theme=buefy&hide=stars&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
