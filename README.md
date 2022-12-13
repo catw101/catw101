@@ -1,5 +1,5 @@
 ## Hi, I'm Catelen! 👋
-I'm a senior studying CS at Columbia University. Outside of academics, I am also a part of the <a href="http://gwcatcolumbia.com/" target="_blank">Girls Who Code</a> club on campus.
+I'm a senior studying CS at Columbia University. Outside of academics, I am also a part of the Girls Who Code club on campus.
 
 🌱 I am interested in full stack development, backend development, and data science.  
 🔭 I'm an incoming SDE at Amazon Web Services. I previously interned at Bank of America, Chipper Cash, and JPMorgan Chase & Co.  
