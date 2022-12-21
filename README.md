@@ -6,7 +6,7 @@ I'm a senior studying CS at Columbia University. Outside of academics, I am also
 💬 Currently working with Ruby, Haskell, and Python!
 
 
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=catw101&theme=buefy&hide=stars&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=catw101&count_private=true&theme=buefy&hide=stars&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 
