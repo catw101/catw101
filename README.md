@@ -1,9 +1,8 @@
-## Hi, I'm Catelen! 👋
-I'm a senior studying CS at Columbia University. Outside of academics, I am also a part of the Girls Who Code club on campus.
-
-🌱 I am interested in full stack development, backend development, and data science.  
-🔭 I'm an incoming SDE at Amazon Web Services. I previously interned at Bank of America, Chipper Cash, and JPMorgan Chase & Co.  
-💬 Currently working with Swift, Java, and Python!
+## Hi, I'm Catelen!
+:woman_technologist: I'm a senior studying Computer Science at Columbia University.  
+🔭 I'm an incoming SDE at Amazon Web Services, with previous internship experience at Bank of America, Chipper Cash, and JPMorgan Chase & Co.  
+ ⚡ Fun fact: Outside of academics, I am involved with the Girls Who Code club on campus.  
+🌱 Currently working with Swift, Java, and Python!
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=catw101)](https://git.io/streak-stats)
 
