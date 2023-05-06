@@ -1,7 +1,7 @@
 ## Hi, I'm Catelen!
 :woman_technologist: I'm a senior studying Computer Science at Columbia University.  
 🔭 I'm an incoming SDE at Amazon Web Services, with previous internship experience at Bank of America, Chipper Cash, and JPMorgan Chase & Co.  
- ⚡ Fun fact: Outside of academics, I am involved with the Girls Who Code club on campus.  
+ ⚡ Fun fact: I was a part of Columbia Girls Who Code and Columbia University Lion Dance.  
 :hammer_and_wrench: Languages and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
